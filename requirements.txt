@@ -1,0 +1,17 @@
+contourpy @ file:///croot/contourpy_1700583582875/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1696677705766/work
+fonttools==4.25.0
+kiwisolver @ file:///work/ci_py311/kiwisolver_1676827230232/work
+matplotlib @ file:///croot/matplotlib-suite_1713336378214/work
+munkres==1.1.4
+numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp311-cp311-linux_x86_64.whl#sha256=2f550fcfe63acca79d636ba578e32b7ec2999e0f9cd88120af57d1497ad15890
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1710075952259/work
+pillow @ file:///croot/pillow_1714398848491/work
+ply @ file:///home/conda/feedstock_root/build_artifacts/ply_1712242996588/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1652235407899/work
+PyQt5==5.15.10
+PyQt5-sip @ file:///croot/pyqt-split_1698769088074/work/pyqt_sip
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
+sip @ file:///croot/sip_1698675935381/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tornado @ file:///croot/tornado_1696936946304/work
